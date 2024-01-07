@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-matplotlib.pyplot 3.8.2
+matplotlib.pyplot
 plotly.express
 plotly.graph_objects
 plotly.subplots 
