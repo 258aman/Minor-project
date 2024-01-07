@@ -19,7 +19,7 @@ st.markdown('''<p style="font-weight:bold; font-size: 20px; font-family:Cursive"
              and keep you grooving through the highs and lows of life. With Spotify, 
             you're not just listening; you're embarking on a sonic adventure where your 
             favorite melodies are just a click away. </p>''', unsafe_allow_html=True)
-st.image('Assets\Presentation1.jpg', use_column_width=True)
+st.image('Assets/Presentation1.jpg', use_column_width=True)
 
 st.markdown('<h2 style="color: maroon; text-align:center; background-color: #AEF359; font-family:monospace; border: 3px solid black; border-radius:5px; margin-bottom: 20px; ">ABOUT THE PROJECT</h2>', unsafe_allow_html=True)
 st.markdown('''<p style="font-weight:bold; font-size: 20px; font-family:Cursive">🎵Spotify is Swedish audio streaming and media services provider founded in April 2006.

@@ -15,4 +15,4 @@ init_notebook_mode(connected=True)
 
 st.title("CALCULATOR")
 st.markdown('Welcome To My First  Streamlit App 🤣')
-st.image(r'C:\Users\siddhant new ac\Desktop\new batch\Minor project\Assets\spotify-2.png')
+st.image(r'Assets/spotify-2.png')
