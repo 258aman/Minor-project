@@ -33,7 +33,7 @@ st.markdown('''<p style="font-weight:bold; font-size: 22px; font-family:Gerogia"
             including 165m subscribers across 178 markets. 
             They are the largest driver of revenue to the music business today. </p>''', unsafe_allow_html=True)
 
-df=pd.read_csv('Dataset\songs_normalize.csv')
+df=pd.read_csv('Dataset/songs_normalize.csv')
 
 
 # plotly graph
