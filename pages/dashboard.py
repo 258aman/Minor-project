@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from plotly.offline import make_subplots
-import seaborn as sns
 import datetime as dt
 import warnings
 warnings.filterwarnings('ignore')
